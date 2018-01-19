@@ -1,10 +1,14 @@
 // Cwiczenia 12.01.2018
-// Cwiczenie 2
-// e do x
+// Praca domowa nr 3
+// sin x
 // ze wzoru taylora
+// Konrad Mojski
+//
+// sinx = x - x^3/ + x^5/5! - ...
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
+#include<math.h>
 
 #define DOKLADNOSC 50
 
